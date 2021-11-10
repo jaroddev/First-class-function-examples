@@ -1,11 +1,11 @@
 #
 ## Motivations
 The main goal behind this project is to learn how to write better code in general.
-Though I had very recently, at university, in the last 3 years.
-been learning about:
+Though I had in the last 3 years, at university, been learning about:
+ - Frameworks
  - SOLID principles
  - Design patterns 
- - Frameworks
+
 I still find myself lacking practice as I often make bad design/coding mistakes,
 mistakes that could be avoided if experienced a bit more.
 
