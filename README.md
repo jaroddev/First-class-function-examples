@@ -7,7 +7,7 @@ Though I had in the last 3 years, at university, been learning about:
  - Design patterns 
 
 I still find myself lacking practice as I often make bad design/coding mistakes,
-mistakes that could be avoided if experienced a bit more.
+even though they could easily be avoided with more experience.
 
 ## Resource used
 Though the code was updated a bit, the code mainly provides from a video on Youtube.
